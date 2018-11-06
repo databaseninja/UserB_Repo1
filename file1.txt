@@ -1,6 +1,14 @@
 Learning git is fun!
 Mike changes here
+
+Mike Chnaged this again in Lab 3
+Mike Changed this again in Lab 3 again
+
 More changes for lab #2
 Made changes for lab #3
 Changed for the RAD branch
+<<<<<<< HEAD
 Another change in the RAD branch
+=======
+
+>>>>>>> cc8055b4e36f0421091ed0b0573ea5cb0c0cb0c5
